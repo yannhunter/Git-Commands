@@ -1,5 +1,4 @@
-# Git-Commands
-Git Commands
+# Git-Command
 ============
 
 ## _A list of my commonly used Git commands_
